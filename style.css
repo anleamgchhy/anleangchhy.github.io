@@ -312,6 +312,7 @@ html {
 
 #home .profile img {
   width: 400px;
+  height: 500px;
   border-radius: 50%;
   margin-top: -40px;
   border: 10px solid blue;
